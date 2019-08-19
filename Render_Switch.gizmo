@@ -1,6 +1,6 @@
 Group {
 inputs 0
-name Render_Switch
+name GM_Render_Switch
 tile_color 0xbbbbbbff
 selected true
 xpos 1610
@@ -15,7 +15,7 @@ addUserKnob {26 ""}
 addUserKnob {26 info3 l "" +STARTLINE T "Recommended use:\n0 - Lighter nodes\n1 - Heavy nodes\n-------------------------\nThe nodes on 1 will be\n used in rendering."}
 addUserKnob {26 ""}
 addUserKnob {26 TEXT l "" +STARTLINE T "<font color=#808080 size=\"5\" >1.01 Beta version</font>"}
-addUserKnob {26 credit l "" +STARTLINE T "<font color=#808080 size=\"2\">Render Switch© by Attila Gasparetz and Nicholas Zissimos - 2019</font>"}
+addUserKnob {26 credit l "" +STARTLINE T "<font color=#808080 size=\"2\">GM_Render Switch© by Attila Gasparetz and Nicholas Zissimos - 2019</font>"}
 }
 Input {
 inputs 0
